@@ -1,5 +1,7 @@
 # Meeting_Notes_AI
 AI Meeting Notes
+2024년 캡스톤 디자인(졸업연구)
+aws 서버 구축 및 일부 기능 구현
 
 ## Table of Contents
 * File/Directory Structure
